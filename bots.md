@@ -1,33 +1,10 @@
-bot 1 =
-bot 2 =
-bot 3 =
-bot 4 =
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot
-bot 30
-bot 32
-bot 32
-bot 33
+bot 1 = 33.227.243.253
+bot 2 = 35.189.2.58
+bot 3 = 223.206.233.22
+bot 4 = 181.134.175.157
+bot 5 = 227.207.211.45
+bot 6 = 224.187.28.128
+bot 7 = 239.37.71.173
+bot 8 = 98.99.128.107
+bot 9 = 73.42.65.241
+bot 10 = 242.75.246.170
