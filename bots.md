@@ -1,6 +1,6 @@
-bot 1 = 33.227.243.253 (valibility:("ON"))
+bot 1 = 33.227.243.253 (valibility:("OFF"))
 bot 2 = 35.189.2.58 (valibility:("OFF"))
-bot 3 = 223.206.233.22 (valibility:("ON"))
+bot 3 = 223.206.233.22 (valibility:("OFF"))
 bot 4 = 181.134.175.157 (valibility:("OFF"))
 bot 5 = 227.207.211.45 (valibility:("OFF"))
 bot 6 = 224.187.28.128 (valibility:("OFF"))
